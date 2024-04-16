@@ -1,0 +1,4 @@
+/**
+  @ingroup mathlib_module
+  @defgroup kalman_filter_module Kalman_filter
+*/
